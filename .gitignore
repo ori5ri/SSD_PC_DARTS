@@ -1,0 +1,8 @@
+__pycache__
+.vscode
+data
+data_search
+img
+weights_search
+weights_v1
+search_v1
